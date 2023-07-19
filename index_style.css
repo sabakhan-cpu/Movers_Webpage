@@ -1,0 +1,28 @@
+.card-text{
+    margin-left: 200px;
+}
+#one{
+    height:20px; 
+    width:200px; 
+    /* margin: -20px -50px;  */
+    position:relative;
+    top:100%; 
+    left:20%;
+    border-color: 1px solid black;
+}
+#two{
+    height:20px; 
+    width:200px; 
+    /* margin: -20px -50px;  */
+    position:relative;
+    top:-30%; 
+    left:50%;
+    margin-top: -19px;
+}
+.image1{
+    margin-top: 0px;
+}
+.un{
+    border-bottom: 1px solid lightgray ;
+    padding-top: 30px;
+}
